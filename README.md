@@ -1,4 +1,4 @@
-﻿EDA-ON-TITANIC-DATA-SET
+﻿**EDA-ON-TITANIC-DATA-SET**
 
 Exploratory Data analysis of the Titanic disaster dataset
 
